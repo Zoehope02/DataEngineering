@@ -12,3 +12,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics.
 
 ## Design Data Architecture (Medallion Architecture)
+**Bronze Layer**
+Raw, unprocessed data as-is from sources
+**Silver Layer**
+Clean & Standardized data 
+**Gold Layer**
+Business-Ready data
