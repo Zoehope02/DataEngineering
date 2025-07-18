@@ -28,3 +28,7 @@ Business-Ready data
   - Data Integration
   - Data Aggregation
   - Business Logic & Rules
+Data Modelling:
+  - Star Schema
+  - Aggregated Objects
+  - Flat Tables
