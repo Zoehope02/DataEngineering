@@ -17,6 +17,14 @@ Raw, unprocessed data as-is from sources
 
 **Silver Layer** :
 Clean & Standardized data 
+  - Data Cleaning
+  - Data Standardization
+  - Data Normalization
+  - Derived Columns
+  - Data Enrichment
 
 **Gold Layer** :
 Business-Ready data
+  - Data Integration
+  - Data Aggregation
+  - Business Logic & Rules
