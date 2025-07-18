@@ -1,4 +1,4 @@
-# Data Engineering
+# SQL Data Warehouse
 ## Building the Data Warehouse (Data Engineering)
 
 ### Objective
