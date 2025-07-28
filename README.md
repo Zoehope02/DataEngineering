@@ -33,11 +33,9 @@ Data Modelling:
   - Aggregated Objects
   - Flat Tables
 
-# My Project
+**Here is the Medallion Architecture diagram:**
 
-Here is the Medallion Architecture diagram:
-
-![Medallion Architecture](data%20engineering/Medallion%20Architecture.png)
+![Medallion Architecture](data%20engineering/Medallion.png)
 
 
 
