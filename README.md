@@ -33,5 +33,5 @@ Data Modelling:
   - Aggregated Objects
   - Flat Tables
 
-![Alt text](path/to/Medallion%20Architecture.png4)
+![Medallion Architecture](Medallion%20Architecture.png4)
 
