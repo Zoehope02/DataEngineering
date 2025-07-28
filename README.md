@@ -32,3 +32,5 @@ Data Modelling:
   - Star Schema
   - Aggregated Objects
   - Flat Tables
+
+![Screenshot](Medallion Architecture.png)
