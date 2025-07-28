@@ -35,7 +35,8 @@ Data Modelling:
 
 **Here is the Medallion Architecture diagram:**
 
-![Medallion Architecture](data%20engineering/Medallion.png)
+![Medallion Architecture](DataEngineering/Medallion.png)
+
 
 
 
